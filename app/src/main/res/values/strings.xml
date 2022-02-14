@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubSearchApi</string>
+    <string name="api_error_message">發生錯誤: %s, 請稍後再試</string>
+    <string name="please_type_username">please type username</string>
+
+
+</resources>
